@@ -47,7 +47,7 @@ function getTask(){
 
     let list_tasks = document.getElementById('tasks');
 
-    list_tasks.innerHTML = '';
+    list_tasks.innerHTML = ``;
 
     //list_tasks.innerHTML = '';
 
